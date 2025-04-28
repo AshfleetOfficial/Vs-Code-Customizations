@@ -110,7 +110,6 @@
         "editor.defaultFormatter": "apility.beautify-blade",
         "editor.formatOnSave": true
     },
-    "editor.wordWrapColumn": 120,
     "files.autoSave": "afterDelay",
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -138,7 +137,7 @@
     "explorer.confirmDelete": false,
     "editor.accessibilitySupport": "off",
     "chat.editor.wordWrap": "on",
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "on",
     "tailwindCSS.includeLanguages": {
         "plaintext": "html"
     },
