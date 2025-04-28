@@ -1,0 +1,29 @@
+// Place these in your vs Code keybindings.json if you want to... or you can skip this these are terminal related only.
+[
+    {
+        "key": "shift+`",
+        "command": "workbench.action.terminal.toggleTerminal",
+        "when": "!terminalFocus"
+    },
+    {
+        "key": "ctrl+`",
+        "command": "-workbench.action.terminal.toggleTerminal",
+        "when": "terminal.active"
+    },
+    {
+        "key": "shift+space",
+        "command": "workbench.action.terminal.sendSequence",
+        "args": {
+            "text": "clear\n"
+        } // Or Use "cls\n" for CMD/PowerShell
+    },
+    {
+        "key": "shift+`",
+        "command": "workbench.action.togglePanel"
+    },
+    {
+        "key": "shift+1",
+        "command": "workbench.action.terminal.kill",
+        "when": "terminalFocus"
+    }
+]
