@@ -1,5 +1,7 @@
 # Instructions
 
+Download and install this this font powered by Vercel Font [Link Text](https://vercel.com/font) into your OS   
+
 1. Install Vs Code Latest Version
 2. Open Vs code in this directory after downloading the files from git it!
 3. Copy the contents of settings.json to your VS Code's settings.json (warning: it will overwrite your settings).
