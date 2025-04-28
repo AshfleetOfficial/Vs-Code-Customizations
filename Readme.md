@@ -1,6 +1,6 @@
 # Instructions
 
-Download and install this this font powered by Vercel Font [Link Text](https://vercel.com/font) into your OS   
+Download and install this this font powered by Vercel Font [Geist Font](https://vercel.com/font) into your OS   
 
 1. Install Vs Code Latest Version
 2. Open Vs code in this directory after downloading the files from git it!
