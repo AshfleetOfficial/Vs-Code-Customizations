@@ -11,7 +11,7 @@
     "editor.detectIndentation": false,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "workbench.editor.showTabs": "none",
+    // "workbench.editor.showTabs": "none",
     "editor.minimap.enabled": false,
     "editor.guides.indentation": false,
     // Silence the Noise
@@ -110,7 +110,6 @@
         "editor.defaultFormatter": "apility.beautify-blade",
         "editor.formatOnSave": true
     },
-    "editor.wordWrapColumn": 120,
     "files.autoSave": "afterDelay",
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -138,7 +137,7 @@
     "explorer.confirmDelete": false,
     "editor.accessibilitySupport": "off",
     "chat.editor.wordWrap": "on",
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "on",
     "tailwindCSS.includeLanguages": {
         "plaintext": "html"
     },
