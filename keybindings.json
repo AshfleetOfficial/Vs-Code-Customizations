@@ -1,4 +1,5 @@
 // Place these in your vs Code keybindings.json if you want to... or you can skip this these are terminal related only.
+// I use default vs code shorcuts mostly
 [
     {
         "key": "shift+`",
