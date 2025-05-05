@@ -73,44 +73,7 @@
     /**
     * PHP
     **/
-    "php.suggest.basic": false,
-    /**
-    * Prettier
-    **/
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
-    "[tailwindcss]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
-    "[vue]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "editor.formatOnSave": true
-    },
-    "prettier.requireConfig": true,
-    "prettier.useEditorConfig": false,
-    "explorer.sortOrder": "type",
-    "prettier.tabWidth": 4,
     "workbench.tree.indent": 15,
-    "[html]": {
-        "editor.defaultFormatter": "apility.beautify-blade",
-        "editor.formatOnSave": true
-    },
-    "files.autoSave": "afterDelay",
-    "[css]": {
-        "editor.defaultFormatter": "apility.beautify-blade",
-        "editor.formatOnSave": true
-    },
     "editor.quickSuggestions": {
         "strings": true
     },
@@ -198,6 +161,7 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "liveServer.settings.donotShowInfoMsg": true,
-    "totalTypeScript.hideAllTips": false,
-    "totalTypeScript.hideBasicTips": false
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "apility.beautify-blade"
 }
