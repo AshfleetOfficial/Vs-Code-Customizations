@@ -163,5 +163,7 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "code-runner.runInTerminal": true,
     "files.autoSave": "afterDelay",
-    "editor.defaultFormatter": "apility.beautify-blade"
+    "prettier.printWidth": 120, // or higher to avoid wrapping
+    "prettier.proseWrap": "never",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
