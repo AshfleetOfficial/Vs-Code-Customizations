@@ -135,7 +135,7 @@
         "file:///C:/Vs-Code-Settings/custom-vscode.css",
         "file:///C:/Vs-Code-Settings/vscode-script.js"
     ],
-    "workbench.colorTheme": "Cobalt2",
+    "workbench.colorTheme": "React Theme",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.sideBar.location": "right",
     // "material-icon-theme.saturation": 0,
