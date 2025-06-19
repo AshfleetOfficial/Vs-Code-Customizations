@@ -12,7 +12,7 @@
         "when": "terminal.active"
     },
     {
-        "key": "shift+space",
+        "key": "ctrl+shift+space",
         "command": "workbench.action.terminal.sendSequence",
         "args": {
             "text": "clear\n"
@@ -26,5 +26,10 @@
         "key": "shift+1",
         "command": "workbench.action.terminal.kill",
         "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.terminal.clear",
+        "when": "terminalHasBeenCreated || terminalProcessSupported"
     }
 ]
